@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - DieCollider
+  - Star
+  - Cube
   layers:
   - Default
   - TransparentFX
@@ -41,4 +43,16 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 4244500533
+    locked: 0
+  - name: Player
+    uniqueID: 1832788577
+    locked: 0
+  - name: Other
+    uniqueID: 543211861
+    locked: 0
+  - name: Saw
+    uniqueID: 488023019
     locked: 0
